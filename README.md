@@ -125,6 +125,6 @@ persist-releases/
 
 **Built with ❤️ by [Xahara](https://github.com/stim-blip)**
 
-*PT. Delusional · Indonesia*
+*PT. Dihukum Pak Lookman · Indonesia*
 
 </div>
