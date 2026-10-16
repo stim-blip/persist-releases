@@ -10,16 +10,21 @@
 
 </div>
 
+<p align="center">
+  <img src="assets/persist-v1.4.1.2.png" alt="Persist v1.4.1.2 — To-Do, Track and Analisis screens" width="100%">
+</p>
+
 This repository contains **release binaries only**. The application source is private.
 
-Persist is a cross-platform habit and routine tracker with offline-first storage, cloud sync, and a built-in analytics
-engine. Each release publishes two artifacts:
+Persist is a habit, time and goal system with offline-first storage, encrypted cloud sync, and a built-in analytics
+engine (80+ analysis cards). Releases publish these artifacts:
 
 | Artifact | Platform | File name |
 | :--- | :--- | :--- |
 | Android app | Android 8.0 (API 26) and newer | `Persist-vX.Y.Z.apk` |
 | Linux desktop app | Debian / Ubuntu, amd64 | `persist_X.Y.Z-1_amd64.deb` |
 
+> Since v1.4.0.1 releases are Android-only; the latest desktop build is **v1.4** (`persist_1.4-1_amd64.deb`).
 > Early releases (v1.1 – v1.3.1) shipped the Android file as `app-release.apk`; see each release's assets.
 
 ## Install
@@ -59,7 +64,14 @@ You can always update manually by installing a newer file over the existing app.
 
 | Version | Highlights |
 | :--- | :--- |
-| **v1.3.3.4** | **Insight engine** on the Analysis screen (Android and desktop): consistency score, plain-language findings, failure risk, day-of-week patterns, task dependencies, goal forecasts, and a backtested prediction model. New liquid-glass desktop UI. |
+| **v1.4.1.2** | **Atomic Habits** (identity votes, two-minute minimal versions, habit stacking, *Reduce* mode with clean days) and a much bigger **Analisis** tab: new Sleep and Daily check-in groups, sleep health & debt, compound "1% a day" score, habit × day heat map, weekly summary, realistic targets, hourly screen time, unlocks and editable app categories. |
+| v1.4.1.1 | Daily check-in (mood, energy, reasons for missed habits) with a 21:00 reminder, sleep quality after each sleep session, hourly screen time and unlocks synced, formula fixes. |
+| v1.4.1 | To-Do and Track unified into one habit model, streamlined Insight screen, APK 44% smaller (~14 MB), smoother rendering, security hardening. |
+| v1.4.0.2 | Sync fixes, log time without the stopwatch, glass design on every page, vertical 24-hour timelines, step-by-step bottom-sheet forms. |
+| v1.4.0.1 | Task unlock takes effect immediately; swipe to edit/delete fixed. |
+| v1.4 | **Track** time tracker linked to habits, **Goals v2** (milestones, phases, reflections, projections, weekly review), 33-card **Analisis** dashboard, real reminders with actions, interactive widget. Last desktop (DEB) release. |
+| v1.3.3.5 | Mobile visual fixes and Supabase sync fixes. |
+| v1.3.3.4 | **Insight engine** on the Analysis screen (Android and desktop): consistency score, plain-language findings, failure risk, day-of-week patterns, task dependencies, goal forecasts, and a backtested prediction model. New liquid-glass desktop UI. |
 | v1.3.3.3 | One-tap task lock, slimmer task blocks, more transparent glass, refined dark mode. |
 | v1.3.3.2 | Compact task cards and dark theme refinements. |
 | v1.3.3.1 | Task lock, endless stack tasks with custom units, show-in-calendar option, category delete protection, vault-key QR pairing, Google Calendar / Keep / Tasks integration, home-screen widgets. |
