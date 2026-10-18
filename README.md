@@ -64,7 +64,8 @@ You can always update manually by installing a newer file over the existing app.
 
 | Version | Highlights |
 | :--- | :--- |
-| **v1.4.1.2** | **Atomic Habits** (identity votes, two-minute minimal versions, habit stacking, *Reduce* mode with clean days) and a much bigger **Analisis** tab: new Sleep and Daily check-in groups, sleep health & debt, compound "1% a day" score, habit × day heat map, weekly summary, realistic targets, hourly screen time, unlocks and editable app categories. |
+| **v1.4.1.3** | **Timelapse** card on Insight that replays your habit journey from day one (compound curves, habit × day map, running totals and moment labels like new streak records), a tidier Insight page, and a pinned "This week vs last week" card with a 4-week completion chart and bullet-point summary. |
+| v1.4.1.2 | **Atomic Habits** (identity votes, two-minute minimal versions, habit stacking, *Reduce* mode with clean days) and a much bigger **Analisis** tab: new Sleep and Daily check-in groups, sleep health & debt, compound "1% a day" score, habit × day heat map, weekly summary, realistic targets, hourly screen time, unlocks and editable app categories. |
 | v1.4.1.1 | Daily check-in (mood, energy, reasons for missed habits) with a 21:00 reminder, sleep quality after each sleep session, hourly screen time and unlocks synced, formula fixes. |
 | v1.4.1 | To-Do and Track unified into one habit model, streamlined Insight screen, APK 44% smaller (~14 MB), smoother rendering, security hardening. |
 | v1.4.0.2 | Sync fixes, log time without the stopwatch, glass design on every page, vertical 24-hour timelines, step-by-step bottom-sheet forms. |
